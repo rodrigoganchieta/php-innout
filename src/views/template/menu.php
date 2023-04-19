@@ -14,6 +14,9 @@
         <li class="nav-item">
           <a href="users.php"><i class="icofont-users mr-2"></i>Usuários</a>
         </li>
+        <li class="nav-item">
+          <a href="data_generator.php"><i class="icon icofont-hour-glass mr-2"></i>Gerar Dados</a>
+        </li>
         <?php endif ?>
     </ul>
   </nav>
