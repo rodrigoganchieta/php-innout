@@ -2,10 +2,10 @@
 
 Sistema desenvolvido no curso de PHP 7 Completo - Curso do Desenvolvedor Web + Projetos
 
-### Configurações:
+### Configurações no Windows:
 
-- Configure o Apache para iniciar na pasta "public" com default
-- Para entrar no sistema acesse: http://localhost
+- Configure o default do Apache para iniciar na pasta "public"
+- Para entrar no sistema acesse: http://localhost/
 
 Para mais detalhes entre em contato.
 
